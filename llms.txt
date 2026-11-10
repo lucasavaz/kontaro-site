@@ -1,0 +1,33 @@
+# Kontaro
+
+> Kontaro is a WhatsApp customer-service workspace for small businesses: one shared WhatsApp number for the whole team, an AI assistant that answers in the business's voice, campaigns, a simple CRM and a daily AI briefing of conversations that need attention. Runs on the official WhatsApp Business Platform. Available in English, Portuguese and Spanish.
+
+- Website: https://kontaro.ai/
+- Sign up: https://relay.kontaro.ai/
+
+## Blog (English)
+
+- [How to answer customers on WhatsApp faster (without hiring anyone)](https://kontaro.ai/blog/answer-whatsapp-customers-faster/): Practical ways for small businesses to cut WhatsApp reply times: shared inbox, quick replies, after-hours AI and a simple routine your team can keep.
+- [How to use AI on WhatsApp without sounding like a robot](https://kontaro.ai/blog/ai-whatsapp-without-sounding-like-a-robot/): Set up an AI assistant for WhatsApp that sounds like your business: what to teach it, how to set its tone and when it must hand the chat to a person.
+- [The WhatsApp 24-hour window, explained in plain English](https://kontaro.ai/blog/whatsapp-24-hour-window-explained/): What the WhatsApp customer service window is, what you can send inside and outside it, how templates work and how it affects what you pay.
+- [WhatsApp Business App vs. API: which one does your business need?](https://kontaro.ai/blog/whatsapp-business-app-vs-api/): A plain comparison of the free WhatsApp Business app and the WhatsApp Business Platform (API): team access, automation, campaigns, costs and when to switch.
+- [How to turn WhatsApp conversations into sales: a simple follow-up routine](https://kontaro.ai/blog/turn-whatsapp-conversations-into-sales/): A practical follow-up routine for small businesses that sell on WhatsApp: track every lead, set a next step, follow up at the right time and close more sales.
+- [WhatsApp marketing messages that don't get you blocked](https://kontaro.ai/blog/whatsapp-marketing-messages-without-getting-blocked/): How to send WhatsApp campaigns customers welcome: opt-in, segments, good templates, timing and frequency, plus what gets numbers flagged or limited.
+
+## Blog (Português)
+
+- [Como responder clientes no WhatsApp mais rápido (sem contratar ninguém)](https://kontaro.ai/pt-br/blog/responder-clientes-whatsapp-mais-rapido/): Formas práticas de pequenas empresas reduzirem o tempo de resposta no WhatsApp: caixa compartilhada, respostas rápidas, IA fora do horário e uma rotina simples.
+- [Como usar IA no WhatsApp sem parecer um robô](https://kontaro.ai/pt-br/blog/ia-no-whatsapp-sem-parecer-robo/): Configure um assistente de IA para o WhatsApp que fale como a sua empresa: o que ensinar, como definir o tom e quando ele precisa passar a conversa para uma pessoa.
+- [Janela de 24 horas do WhatsApp: o que é e como funciona](https://kontaro.ai/pt-br/blog/janela-de-24-horas-do-whatsapp/): O que é a janela de atendimento do WhatsApp, o que você pode enviar dentro e fora dela, como funcionam os modelos e como isso afeta o que você paga.
+- [WhatsApp Business app ou API: qual a sua empresa precisa?](https://kontaro.ai/pt-br/blog/whatsapp-business-app-ou-api/): Comparação simples entre o app gratuito do WhatsApp Business e a API oficial: atendimento em equipe, automação, campanhas, custos e a hora certa de mudar.
+- [Como transformar conversas do WhatsApp em vendas: uma rotina simples de follow-up](https://kontaro.ai/pt-br/blog/transformar-conversas-do-whatsapp-em-vendas/): Uma rotina prática de follow-up para quem vende pelo WhatsApp: acompanhe cada contato, defina o próximo passo, retome na hora certa e feche mais vendas.
+- [Campanhas no WhatsApp que não fazem sua empresa ser bloqueada](https://kontaro.ai/pt-br/blog/campanhas-no-whatsapp-sem-ser-bloqueado/): Como enviar campanhas no WhatsApp que o cliente gosta de receber: autorização, segmentação, bons modelos, horário e frequência, e o que faz um número ser limitado.
+
+## Blog (Español)
+
+- [Cómo responder a tus clientes en WhatsApp más rápido (sin contratar a nadie)](https://kontaro.ai/es/blog/responder-clientes-whatsapp-mas-rapido/): Formas prácticas de reducir el tiempo de respuesta en WhatsApp: bandeja compartida, respuestas rápidas, IA fuera de horario y una rutina simple.
+- [Cómo usar IA en WhatsApp sin sonar como un robot](https://kontaro.ai/es/blog/ia-en-whatsapp-sin-sonar-como-un-robot/): Configura un asistente de IA para WhatsApp que hable como tu negocio: qué enseñarle, cómo definir su tono y cuándo debe pasar la conversación a una persona.
+- [La ventana de 24 horas de WhatsApp, explicada sin tecnicismos](https://kontaro.ai/es/blog/ventana-de-24-horas-de-whatsapp/): Qué es la ventana de atención al cliente de WhatsApp, qué puedes enviar dentro y fuera de ella, cómo funcionan las plantillas y cómo afecta lo que pagas.
+- [WhatsApp Business app o API: ¿cuál necesita tu negocio?](https://kontaro.ai/es/blog/whatsapp-business-app-o-api/): Comparación sencilla entre la app gratuita de WhatsApp Business y la API oficial: atención en equipo, automatización, campañas, costos y cuándo conviene cambiar.
+- [Cómo convertir conversaciones de WhatsApp en ventas: una rutina simple de seguimiento](https://kontaro.ai/es/blog/convertir-conversaciones-de-whatsapp-en-ventas/): Una rutina simple de seguimiento para vender por WhatsApp: registra cada contacto, define el siguiente paso, retoma a tiempo y cierra más ventas.
+- [Campañas de WhatsApp que no hacen que te bloqueen](https://kontaro.ai/es/blog/campanas-de-whatsapp-sin-que-te-bloqueen/): Cómo enviar campañas de WhatsApp que tus clientes agradecen: consentimiento, segmentos, buenas plantillas y frecuencia, sin que limiten tu número.
